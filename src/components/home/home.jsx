@@ -1,5 +1,5 @@
 import "./home.css"
-import img from "../props/samivv.jpg"
+import img from "../props/DCS_0173(1).jpg"
 import {BsMouse} from "react-icons/bs"
 import Buttons from "../boton/button"
 import { useEffect } from "react"
@@ -37,7 +37,7 @@ import { useEffect } from "react"
                 <hr></hr>
             </a>
             <h2><span>About me</span><br/>
-            <p>I am a 24-year-old young man who wants to give the best improving in development to people,
+            <p>I am a 25-year-old young man who wants to give the best improving in development to people,
              I am a kind, helpful, responsible and respectful person with others, 
              I am a person who loves languages, video games, History and economy. 
              I would say that I love it, I would like to study Economics in the future abroad.

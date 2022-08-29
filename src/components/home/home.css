@@ -103,7 +103,7 @@
     transform: translateX(-210%)
 }
 .home-container .logo .main-img.active .circle:nth-child(8){
-    background-image: url("../props/lolcillo.jpg");
+    background-image: url("../props/descargarMongo.jpg");
     background-size: cover;
     background-position: center;
     position: absolute;

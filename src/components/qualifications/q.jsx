@@ -30,8 +30,8 @@ import "./q.css"
                 <div className="content python"></div>
                    <h1>python</h1>
                    </div><div className="qualification">
-                <div className="content lol"></div>
-                   <h1>lolcillo</h1>
+                <div className="content mongoDB"></div>
+                   <h1>MongoDb</h1>
                    </div>
             </div>
         </div>

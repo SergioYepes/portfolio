@@ -74,8 +74,8 @@
     background-position: center;
     background-size: 400px;
 }
-.qualifications-container .qualification .content.lol{
-    background:url("../props/lolcillo.jpg");
+.qualifications-container .qualification .content.mongoDB{
+    background:url("../props/descargarMongo.jpg");
     background-position: center;
     background-size: 450px;
 }
