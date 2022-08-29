@@ -1,5 +1,5 @@
 import "./home.css"
-import img from "../props/DCS_0173(1).jpg"
+import img from "../props/foto.jpg"
 import {BsMouse} from "react-icons/bs"
 import Buttons from "../boton/button"
 import { useEffect } from "react"
